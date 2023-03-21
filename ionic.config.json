@@ -1,0 +1,7 @@
+{
+  "name": "concertApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
